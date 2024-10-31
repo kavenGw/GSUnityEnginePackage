@@ -1,0 +1,9 @@
+{
+  "name": "com.csjl.gsenginepackage",
+  "displayName": "GSEnginePackage",
+  "version": "1.0.0",
+  "documentationUrl": "https://github.com/kavenGw/GSUnityEnginePackage",
+  "changelogUrl": "https://github.com/kavenGw/GSUnityEnginePackage/releases",
+  "licensesUrl": "https://github.com/kavenGw/GSUnityEnginePackage/LICENSE.txt",
+  "description": "Empty"
+}
